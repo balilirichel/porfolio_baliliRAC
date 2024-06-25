@@ -78,7 +78,7 @@
 .image-frame {
   width: 380px;
   height: 380px;
-  background-image: url(../images/profile-image.png);
+  background-image: url(../images/formalpic.jpg);
   background-position: center;
   background-size: cover;
   border: 8px solid #ffffff;
@@ -138,7 +138,10 @@
   font-size: 48px;
   font-weight: 300;
   letter-spacing: 4px;
+  justify-content: center;
   text-transform: uppercase;
+
+
   line-height: 1.2;
 }
 
